@@ -1,7 +1,7 @@
-#include<SoftwareSerial.h>
+#include<SoftwareSerial.h> 
 int photocellPin = A0;     // the cell and 10K pulldown are connected to a0
 int photocellReading;     // the analog reading from the analog resistor divider
-int led1=3;
+int led1=3;//
 int led2=4;
 int led3=5;
 int led4=7; 
